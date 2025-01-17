@@ -1,4 +1,4 @@
-I exclusively code in python and dump some of my projects I wrote proper commenting for here.
+I exclusively code in python and post a few projects here.
 
 <!---
 Daksh-Pat/Daksh-Pat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
